@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ExpandableLayout</string>
+    <string name="expand_title">Press to expand/collapse view</string>
+    <string name="expandable_text">Here is some expandable/collapsible text</string>
+</resources>
